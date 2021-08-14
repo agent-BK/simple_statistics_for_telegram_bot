@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jun  7 09:12:35 2021
-
 @author: agent2k
+
+version 1.0.1
 """
 import csv
 from datetime import datetime
@@ -29,10 +29,9 @@ dict_stat = dict()
 
 btn_menu = ['Получить статистику',
             'Очистить всю статистику',
-            'Скачать статистику csv',
-            'Скачать базу языков csv',
             'Помощь',
             'Выход']
+
 key_menu = tb.types.ReplyKeyboardMarkup(resize_keyboard=True, row_width=2)
 key_menu.add(*btn_menu)
 
