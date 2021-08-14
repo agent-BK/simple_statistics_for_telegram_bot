@@ -18,7 +18,7 @@ For the development of other functions, troubleshooting and issues related to th
 ***Clear all statistics:***
  - forced clearing of all statistics.
 
-***Using a csv table instead of DB, with telebot***
+## Using a csv table instead of DB, with telebot ##
 
 **Connection:**
 
@@ -68,7 +68,7 @@ For the development of other functions, troubleshooting and issues related to th
 **Очистить всю статистику:**
 - принудительная очистка всей статистики.
 
-**C использованием вместо ДБ csv таблицы, с telebot** 
+## C использованием вместо ДБ csv таблицы, с telebot ## 
 
 
 **подключение**
